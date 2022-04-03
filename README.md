@@ -1,4 +1,4 @@
 # New Demo
 
-description of project: a test on how
+Description of project: A test on how
 to use git
